@@ -53,3 +53,6 @@ Thumbs.db
 *.bak
 *.tmp
 backend/models/model.h5
+
+# TensorFlow & large model artifacts
+*.h5
